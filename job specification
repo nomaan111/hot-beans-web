@@ -1,0 +1,23 @@
+<DOCTYPE html>
+<html>
+
+
+
+<head>
+<meta charset="utf-8">
+<title>My Website</title>
+<link rel="stylesheet" href="main.css">
+
+
+</head>
+<body>
+
+<nav>
+
+	<a href="home1.html">Home</a>
+	<a href="staff.html">Staff</a>
+	<a href="apply.html">Apply to Work for Us</a>
+	<a href="jobs.html">Job Specification</a>
+	<a href="cources.html">cources</a>
+</nav>
+</body>
